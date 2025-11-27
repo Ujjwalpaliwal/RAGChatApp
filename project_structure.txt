@@ -1,0 +1,20 @@
+RAG_Project/
+│── data/
+│    ├── CA_conservation.txt
+│    ├── startup.txt
+│
+│── embeddings/
+│    ├── faiss_index.bin
+│    ├── faiss_index.pkl
+│
+│── src/
+│    ├── build_index.py       # Part 2 → create FAISS index from txt files
+│    ├── retriever.py         # Part 3 → retrieve docs
+│    ├── chatbot.py           # Part 4 → chatbot loop with history
+│    ├── utils.py             # common helpers (chunking, cleaning, etc.)
+│
+│── app/
+│    ├── streamlit_app.py     # Part 5 → Web UI
+│
+│── requirements.txt
+│── README.md
