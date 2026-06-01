@@ -93,8 +93,3 @@ Streamlit will automatically open a tab in your web browser at `http://localhost
 * **LLM**: Google Gemini `gemini-2.5-flash` via the official `google-genai` package.
 * **PDF Parser**: `PyMuPDF (fitz)`.
 * **Word Parser**: `python-docx`.
-
-* ## Result
-
-![Bhagwad Geeta Response](C:\Users\dell\Desktop\RL_practice\RAGChatApp\result\result1.png)
-
