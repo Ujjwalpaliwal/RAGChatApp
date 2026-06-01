@@ -79,7 +79,10 @@ This parses all documents, builds the FAISS vector database, and saves it inside
 To start the interactive chat UI, run:
 ```bash
 streamlit run app/ui/streamlit_app.py
-```
+```## Result
+
+![hagwad Geeta Response](C:\Users\dell\Desktop\RL_practice\RAGChatApp\result\result1.png)
+
 Streamlit will automatically open a tab in your web browser at `http://localhost:8501`.
 
 ---
@@ -90,3 +93,8 @@ Streamlit will automatically open a tab in your web browser at `http://localhost
 * **LLM**: Google Gemini `gemini-2.5-flash` via the official `google-genai` package.
 * **PDF Parser**: `PyMuPDF (fitz)`.
 * **Word Parser**: `python-docx`.
+
+* ## Result
+
+![Bhagwad Geeta Response](C:\Users\dell\Desktop\RL_practice\RAGChatApp\result\result1.png)
+
