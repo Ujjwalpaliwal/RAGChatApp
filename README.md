@@ -82,7 +82,7 @@ streamlit run app/ui/streamlit_app.py
 ```
 ## Result
 
-![Bhagwad Geeta Response](C:\Users\dell\Desktop\RL_practice\RAGChatApp\result\result1.png)
+![Bhagwad Geeta Response](https://github.com/Ujjwalpaliwal/RAGChatApp/blob/main/result/result1.png)
 
 Streamlit will automatically open a tab in your web browser at `http://localhost:8501`.
 
